@@ -1,0 +1,2 @@
+killall nmap
+killall python
